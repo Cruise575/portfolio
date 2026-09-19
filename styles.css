@@ -1,0 +1,60 @@
+h1 {
+  color: greenyellow;
+}
+#nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+#menu {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 40px;
+}
+#cv-button {
+  padding: 10px 15px 10px 15px;
+  border: 1px solid greenyellow;
+  border-radius: 5px;
+  background-color: white;
+}
+#hero-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 150px;
+  margin-bottom: 100px;
+}
+.green-text {
+  color: greenyellow;
+}
+#span-1 {
+  font-size: 50px;
+  font-weight: 700px;
+}
+#contact-button-container {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+#contact-button {
+  padding: 10px 15px 10px 15px;
+  border: 1px solid greenyellow;
+  border-radius: 5px;
+  background-color: greenyellow;
+  color: white;
+}
+#work-container {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 50px;
+}
+#contact-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#form-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
